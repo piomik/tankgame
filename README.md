@@ -1,2 +1,2 @@
-# tankgame
-Tank game from the course
+# Tank game
+Tank game from the Unreal course
